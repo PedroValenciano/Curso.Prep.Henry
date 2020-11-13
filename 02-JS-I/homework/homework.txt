@@ -1,0 +1,6 @@
+Variables: contienen información que puede ser utilizada como referencia a objetos y funciones
+Strings: Son cadenas que contienen texto
+Funciones: Las funciones le dicen al programa qué hacer y cómo hacerlo
+Argunmentos: Son las razones que le damos al programa para que ejecute las funciones
+Return: es un argumento que le damos a la función para que ejecute lo que está dentro de sí.
+Valores Booleanos: Son los que permiten verificar la veracidad de la función u objeto.
