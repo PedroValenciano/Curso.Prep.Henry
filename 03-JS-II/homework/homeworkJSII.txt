@@ -1,0 +1,4 @@
+for: expresión utilizada para identificar bucles
+&&: operador utilizado para evaluar expresiones y que se cumplan que ambas sean verdad
+|| = operador utilizado para verificar que se cumpla una u otra expresión
+!= operador que dice que una expresión es diferente a la otra
